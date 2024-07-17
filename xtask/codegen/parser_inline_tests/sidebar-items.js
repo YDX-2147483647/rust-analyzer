@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["collect_tests","existing_tests","generate","tests_from_dir"],"struct":["Test","Tests"]};

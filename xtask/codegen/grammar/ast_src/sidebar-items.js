@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["CONTEXTUAL_RESERVED","EOF","PUNCT","RESERVED","TOKENS"],"enum":["Cardinality","Field"],"fn":["generate_kind_src"],"struct":["AstEnumSrc","AstNodeSrc","AstSrc","KindsSrc"]};
